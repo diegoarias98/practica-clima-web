@@ -10,3 +10,5 @@ npm install
 ```
 node src/app.js
 ```
+• Heroku:
+https://clima-web.herokuapp.com/
